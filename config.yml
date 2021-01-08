@@ -1,0 +1,8 @@
+minio:
+  endpoint: "minio.bobby.org.cn"
+  accessKey: "bobby"
+  secretKey: "QHbwQEGtLHSEOy0yiMVXyB9YWoWYjTNo"
+  useSSL: true
+bucket: "notes"
+useUUID: false
+returnUrlTemplate: "https://image.bobby.org.cn/0x0/notes/{objectName}"
